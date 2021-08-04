@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Sammy Ndabo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
